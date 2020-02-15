@@ -1,0 +1,7 @@
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\bin\Debug\netstandard2.0\XamarinApiAzure.deps.json
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\bin\Debug\netstandard2.0\XamarinApiAzure.dll
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.csprojAssemblyReference.cache
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.AssemblyInfoInputs.cache
+C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.AssemblyInfo.cs
