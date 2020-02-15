@@ -5,3 +5,16 @@ C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\n
 C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.AssemblyInfoInputs.cache
 C:\Users\ProBook 450 HP\source\repos\XamarinApiAzure\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.AssemblyInfo.cs
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.csprojAssemblyReference.cache
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.AssemblyInfoInputs.cache
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.AssemblyInfo.cs
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\bin\Debug\netstandard2.0\XamarinApiAzure.deps.json
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\bin\Debug\netstandard2.0\XamarinApiAzure.dll
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\bin\Debug\netstandard2.0\ref\XamarinApiAzure.dll
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\bin\Debug\netstandard2.0\XamarinApiAzure.pdb
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\XamlC.stamp
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.dll
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\ref\XamarinApiAzure.dll
+G:\EjerciciosMTWDM2020\XamarinApiAzureGitHub\XamarinApiAzure\obj\Debug\netstandard2.0\XamarinApiAzure.pdb
