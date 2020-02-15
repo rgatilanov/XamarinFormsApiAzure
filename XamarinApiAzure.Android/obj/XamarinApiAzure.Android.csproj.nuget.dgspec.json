@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj": {}
+    "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj": {
+    "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj",
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj",
         "projectName": "XamarinApiAzure.Android",
-        "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure.Android\\XamarinApiAzure.Android.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure.Android\\obj\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure\\XamarinApiAzure.csproj": {
-                "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure\\XamarinApiAzure.csproj"
+              "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure\\XamarinApiAzure.csproj": {
+                "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure\\XamarinApiAzure.csproj"
               }
             }
           }
@@ -43,10 +43,6 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
-            "Syncfusion.Xamarin.SfListView": {
-              "target": "Package",
-              "version": "[17.4.0.49, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.3.1, )"
@@ -59,14 +55,14 @@
         }
       }
     },
-    "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure\\XamarinApiAzure.csproj": {
+    "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure\\XamarinApiAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure\\XamarinApiAzure.csproj",
+        "projectUniqueName": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure\\XamarinApiAzure.csproj",
         "projectName": "XamarinApiAzure",
-        "projectPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure\\XamarinApiAzure.csproj",
+        "projectPath": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure\\XamarinApiAzure.csproj",
         "packagesPath": "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ProBook 450 HP\\source\\repos\\XamarinApiAzure\\XamarinApiAzure\\obj\\",
+        "outputPath": "G:\\EjerciciosMTWDM2020\\XamarinApiAzureGitHub\\XamarinApiAzure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -104,14 +100,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            },
-            "Syncfusion.Xamarin.SfListView": {
-              "target": "Package",
-              "version": "[17.4.0.49, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
